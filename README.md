@@ -1,4 +1,6 @@
-Just async logger. In progress
+Just async logger. In progress.
+
+Study project, without AI code.
 
 # Todo:
 - [ ] Implement adding to queue
