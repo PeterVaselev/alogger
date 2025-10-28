@@ -7,5 +7,5 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 add_executable(BIN
     src/test.cpp
-    src/test.cpp
+    src/Logger.cpp
 )
